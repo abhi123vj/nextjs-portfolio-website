@@ -192,7 +192,7 @@ export const reviews = [
     name: "Sarah Thompson",
     designation: "CEO Texo",
     review:
-      "Waseem Anjum is an incredibly talented web develioper. His attention to detail and creative flair are unmatched. He took my website from ordinary to extraordinary, capturing the essence of my brand perfectly. Working with Waseem was a breeze, as he listened to my needs and provided expert guidance throughout the design process. I highly recommend Waseem for anyone looking to elevate their online presence.",
+      "S Abhiram is an incredibly talented web develioper. His attention to detail and creative flair are unmatched. He took my website from ordinary to extraordinary, capturing the essence of my brand perfectly. Working with Abhiram was a breeze, as he listened to my needs and provided expert guidance throughout the design process. I highly recommend Abhiram for anyone looking to elevate their online presence.",
     stars: 5,
     socialLinks: [
       {
@@ -217,7 +217,7 @@ export const reviews = [
     name: "Emily Roberts",
     designation: "CEO Texo",
     review:
-      "Waseem Anjum is an incredibly talented web develioper. His attention to detail and creative flair are unmatched. He took my website from ordinary to extraordinary, capturing the essence of my brand perfectly. Working with Waseem was a breeze, as he listened to my needs and provided expert guidance throughout the design process. I highly recommend Waseem for anyone looking to elevate their online presence.",
+      "S Abhiram is an incredibly talented web develioper. His attention to detail and creative flair are unmatched. He took my website from ordinary to extraordinary, capturing the essence of my brand perfectly. Working with Abhiram was a breeze, as he listened to my needs and provided expert guidance throughout the design process. I highly recommend Abhiram for anyone looking to elevate their online presence.",
     stars: 3,
     socialLinks: [
       {
@@ -242,7 +242,7 @@ export const reviews = [
     name: "Emily Roberts",
     designation: "CEO Texo",
     review:
-      "Waseem Anjum is an incredibly talented web develioper. His attention to detail and creative flair are unmatched. He took my website from ordinary to extraordinary, capturing the essence of my brand perfectly. Working with Waseem was a breeze, as he listened to my needs and provided expert guidance throughout the design process. I highly recommend Waseem for anyone looking to elevate their online presence.",
+      "S Abhiram is an incredibly talented web develioper. His attention to detail and creative flair are unmatched. He took my website from ordinary to extraordinary, capturing the essence of my brand perfectly. Working with Abhiram was a breeze, as he listened to my needs and provided expert guidance throughout the design process. I highly recommend Abhiram for anyone looking to elevate their online presence.",
     stars: 5,
     socialLinks: [
       {
@@ -267,7 +267,7 @@ export const reviews = [
     name: "Emily Roberts",
     designation: "CEO Texo",
     review:
-      "Waseem Anjum is an incredibly talented web develioper. His attention to detail and creative flair are unmatched. He took my website from ordinary to extraordinary, capturing the essence of my brand perfectly. Working with Waseem was a breeze, as he listened to my needs and provided expert guidance throughout the design process. I highly recommend Waseem for anyone looking to elevate their online presence.",
+      "S Abhiram is an incredibly talented web develioper. His attention to detail and creative flair are unmatched. He took my website from ordinary to extraordinary, capturing the essence of my brand perfectly. Working with Abhiram was a breeze, as he listened to my needs and provided expert guidance throughout the design process. I highly recommend Abhiram for anyone looking to elevate their online presence.",
     stars: 4,
     socialLinks: [
       {
@@ -292,7 +292,7 @@ export const reviews = [
     name: "Emily Roberts",
     designation: "CEO Texo",
     review:
-      "Waseem Anjum is an incredibly talented web develioper. His attention to detail and creative flair are unmatched. He took my website from ordinary to extraordinary, capturing the essence of my brand perfectly. Working with Waseem was a breeze, as he listened to my needs and provided expert guidance throughout the design process. I highly recommend Waseem for anyone looking to elevate their online presence.",
+      "S Abhiram is an incredibly talented web develioper. His attention to detail and creative flair are unmatched. He took my website from ordinary to extraordinary, capturing the essence of my brand perfectly. Working with Abhiram was a breeze, as he listened to my needs and provided expert guidance throughout the design process. I highly recommend Abhiram for anyone looking to elevate their online presence.",
     stars: 4,
     socialLinks: [
       {
@@ -369,17 +369,17 @@ export const contactDetails = [
   {
     id: 1,
     icon: Phone,
-    text: "+92 333 1234567",
+    text: "+91 62821 60906",
   },
   {
     id: 2,
     icon: Mail,
-    text: "waseemaofficial@gmail.com",
+    text: "4bh1ram@gmail.com",
   },
   {
     id: 3,
     icon: MapPin,
-    text: "Lahore, Pakistan",
+    text: "kerala, India",
   },
 ];
 export const timeline = [
