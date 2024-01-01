@@ -1,16 +1,15 @@
-import Footer from '@/components/Footer'
-import Header from '@/components/Header'
-import React from 'react'
+import Footer from "@/components/Footer";
+import Header from "@/components/Header";
+import React from "react";
 
-const layout = ({children: children}:{children: React.ReactNode}) => {
+const layout = ({ children: children }: { children: React.ReactNode }) => {
   return (
     <>
-    <Header/>
-    {children}
-    <Footer/>
-
+      <Header />
+      <main className="min-h-screen"> {children}</main>
+      <Footer />
     </>
-  )
-}
+  );
+};
 
-export default layout
+export default layout;
